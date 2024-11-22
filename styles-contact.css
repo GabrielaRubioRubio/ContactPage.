@@ -56,7 +56,7 @@ table {
 /* ---------- This is the beginning of my 201 Contact Web Page Project ------------ */
 
 html, body {
-  background-image: url("images/rocks-bg.jpg");
+  background-image:url("images/rocks-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
