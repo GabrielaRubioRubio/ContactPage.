@@ -81,9 +81,9 @@ html, body {
 
 h1 {
 	font-family: "ivypresto-headline", serif;
-font-weight: 700;
+font-weight: 600;
 font-style: normal;
-	font-size: 2e;
+	font-size: 2em;
 	margin: 0px auto 10px auto;
 	color: #fff;
 }
@@ -101,8 +101,8 @@ h2 {
 
 p {
 	font-family: "ivypresto-headline", serif;
-font-weight: 400;
-font-style: normal;
+	font-weight: 400;
+	font-style: normal;
 	font-size: 1.2em;
 	line-height: 1.6;
 	color: #fff;
@@ -130,13 +130,12 @@ font-style: normal;
 	}
 
 	a{ 
-		color: black;
+		color: #444;
 		text-decoration: none;
 		font-weight: bold;
 	}
     
 	a:hover{
 		color:black;
-		background: green;
+		background: lightblue;
 	}
-
